@@ -8,7 +8,6 @@ Mother's day is coming up, and you've been hired by Hallmark to develop some e-c
 
 ### Step 1 - a method with no arguments
 
-def Mom
 puts "Happy Mother's Day, Mom!"
 
 ### Step 2 - a method with arguments
